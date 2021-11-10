@@ -68,9 +68,9 @@
 		<table class="certificati">
 			<tbody>
 			<tr>
-			<a href="https://algoexplorer.io/tx/DQIEJ3ZNNT2LRAFHTDESEONZFJP7FA35PRS6LLUQ7Y24RGT4DVEA"><td valign=”top” width=”186″ ><img src="images/certificato1.png" class="rounded float-left" alt=" "></td></a>
-			<a href="https://algoexplorer.io/tx/ZTFUZVEQW7QEOZCBKUKEKLMEMCQTUZVYYUQ4NIVPV3FUMY5557GQ"><td valign=”top” width=”186″ ><img src="images/certificato2.png" class="rounded float-left" alt=" "></td></a>
-			<a href="https://algoexplorer.io/tx/DHNKUC2UTC7CUO5DBR3L4PQ4W23KZ627XIAEVQW62RUYZAY7CSZA"><td valign=”top” width=”186″ ><img src="images/certificato3.png" class="rounded float-left" alt=" "></td></a>
+						<a href="https://algoexplorer.io/tx/DQIEJ3ZNNT2LRAFHTDESEONZFJP7FA35PRS6LLUQ7Y24RGT4DVEA" valign=”top” width=”186″ ><img src="images/certificato1.png" class="rounded float-left" alt=" "></a>
+			<a href="https://algoexplorer.io/tx/ZTFUZVEQW7QEOZCBKUKEKLMEMCQTUZVYYUQ4NIVPV3FUMY5557GQ" valign=”top” width=”186″ ><img src="images/certificato2.png" class="rounded float-left" alt=" "></a>
+			<a href="https://algoexplorer.io/tx/DHNKUC2UTC7CUO5DBR3L4PQ4W23KZ627XIAEVQW62RUYZAY7CSZA" valign=”top” width=”186″ ><img src="images/certificato3.png" class="rounded float-left" alt=" "></a>
 			
 		</tr></tbody></table>
 			
