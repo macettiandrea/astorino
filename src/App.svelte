@@ -3,11 +3,11 @@
 </script>
 
 <main>
-	<div class="immagine">
+	<div clas="colonna_sx">
 		<img id="img1" src="images/pasta2.jpeg" class="rounded float-left" alt="Immagine Pasta">
 	</div>
-		
-	<div class="div2">
+
+	<div class="colonna_dx">
 		<b>Valori nutrizionali per 100g</b>
 		<ul>
 			<li>Energia:KJ 1480 / Kcal 350</li>
@@ -29,6 +29,9 @@
 			<li>Tempi di cottura: 10/11 min</li>
 				<li>Modalità di conservazione: conservare in luogo fresco e asciutto</li>
 	</ul>
+
+</div>
+	<div class="colonna_dx2">
 		<b>Formato Confezione</b>
 		<ul>
 		<li>Formato: 500g</li>
@@ -38,7 +41,7 @@
 		<b>Provenienza Grano</b>
 		<ul>
 		<li>ITALIA (SICILIA)</li>
-	</ul>
+		</ul>
 		
 			<b>CERTIFICAZIONE DI ANALISI CHIMICO-FISICHE</b>
 			<ul>
@@ -51,7 +54,7 @@
 						<li>QUANTITA’ DI GLUTINE % su s.s.: 10,28 GLUTOMATIC</li>
 	
 							<li>INDICE DI GLUTINE % su s.s.: 78,94 GLUTOMATIC</li>
-								<li>INDICE DI GIALLO “b” su t.q.: 26,97 MINOLTA CR 300</li>
+				<li>INDICE DI GIALLO “b” su t.q.: 26,97 MINOLTA CR 300</li>
 	
 									<li>GRANULOMETRIA (% ):</li>
 	
@@ -62,20 +65,15 @@
 												<li>rifiuto setaccio 250 micron 66,82%</li>
 													<li>rifiuto setaccio 180 micron 5,71%</li>
 														<li>fondo 0,05%
-	</ul>
-	</div>
+		</ul>
+	
+</div>
 	<div class="certificazioni">
-		<table class="certificati">
-			<tbody>
-			<tr>
 			<a href="https://algoexplorer.io/tx/DQIEJ3ZNNT2LRAFHTDESEONZFJP7FA35PRS6LLUQ7Y24RGT4DVEA" valign=”top” width=”186″ ><img src="images/certificato1.png" class="rounded float-left" alt=" "></a>
 			<a href="https://algoexplorer.io/tx/ZTFUZVEQW7QEOZCBKUKEKLMEMCQTUZVYYUQ4NIVPV3FUMY5557GQ" valign=”top” width=”186″ ><img src="images/certificato2.png" class="rounded float-left" alt=" "></a>
 			<a href="https://algoexplorer.io/tx/DHNKUC2UTC7CUO5DBR3L4PQ4W23KZ627XIAEVQW62RUYZAY7CSZA" valign=”top” width=”186″ ><img src="images/certificato3.png" class="rounded float-left" alt=" "></a>
 			
-		</tr></tbody></table>
-			
-			
-	</div>
+		
 		
 	<div style="clear: both;">
 		</div>
@@ -87,30 +85,42 @@
 		padding: 1em;
 		max-width: 240px;
 		margin: 0 auto;
-	}
-	.div2 {
-		float: right;
-		text-align: justify;
-		width: 40%;
-	}
-	#img1 {
-		width: 40%;
-  		height:40%;
-		float: left;
-	}
-	.certificati {
-		position:relative;
-		bottom:0;
-		padding: 0;
+		margin-top:100px;
 	}
 
+	.colonna_sx {
+		float:left;
+		width: 50%;
+		margin: 25px;
+		padding: 25px;
+	}
+
+	.colonna_dx {
+		text-align: left;
+		float: left;
+		width: 25%;
+		margin-left: 300px;
+	}
+
+	.colonna_dx2 {
+		text-align: left;
+		float: left;
+		width: 25%;
+		margin: 25px;
+	}
+
+
+	#img1 {
+		width: 20%;
+  		height:auto;
+		float: left;
+		margin-left: 200px;
+	}
 	.certificazioni {
-width : 100%;
-height : 20px;
-text-align : right;
-position:absolute;
-bottom:0;
-float: left;
+		float:left;
+		width: 100%;
+		bottom:0;
+		padding: 0;
 	}
 	
 	@media (min-width: 640px) {
