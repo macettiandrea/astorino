@@ -69,8 +69,8 @@
 	
 </div>
 	<div class="certificazioni">
-			<a href="" valign=”top” width=”186″ ><img src="images/transazione.png" class="rounded float-left" alt=" "></a>
-			<a href="" valign=”top” width=”186″ ><img src="images/notarizzazione.png" class="rounded float-left" alt=" "></a>
+			<a href="https://algoexplorer.io/tx/DHNKUC2UTC7CUO5DBR3L4PQ4W23KZ627XIAEVQW62RUYZAY7CSZA" valign=”top” width=”186″ ><img src="images/transazione.png" class="rounded float-left" alt=" "></a>
+			<a href="https://app.dedit.io/verification/2ca0c03080b4f47e50b8e18ca9b9f6c3692219acdcf97467d2a35cb2628d6398" valign=”top” width=”186″ ><img src="images/notarizzazione.png" class="rounded float-left" alt=" "></a>
 			
 		
 		
