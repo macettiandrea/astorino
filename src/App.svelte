@@ -98,7 +98,7 @@
 		text-align: left;
 		float: left;
 		width: 20%;
-		margin-left: 300px;
+		margin-left: 100px;
 	}
 
 	.colonna_dx2 {
