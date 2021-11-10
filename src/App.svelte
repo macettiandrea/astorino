@@ -97,14 +97,14 @@
 	.colonna_dx {
 		text-align: left;
 		float: left;
-		width: 25%;
+		width: 20%;
 		margin-left: 300px;
 	}
 
 	.colonna_dx2 {
 		text-align: left;
 		float: left;
-		width: 25%;
+		width: 20%;
 		margin: 25px;
 	}
 
