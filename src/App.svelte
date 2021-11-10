@@ -4,7 +4,7 @@
 
 <main>
 	<div class="immagine">
-		<img id="img1" href="www.google.com "src="images/pasta2.jpeg" class="rounded float-left" alt="Immagine Pasta">
+		<img id="img1" "src="images/pasta2.jpeg" class="rounded float-left" alt="Immagine Pasta">
 	</div>
 		
 	<div class="div2">
