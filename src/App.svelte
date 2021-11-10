@@ -51,7 +51,6 @@
 						<li>QUANTITA’ DI GLUTINE % su s.s.: 10,28 GLUTOMATIC</li>
 	
 							<li>INDICE DI GLUTINE % su s.s.: 78,94 GLUTOMATIC</li>
-
 								<li>INDICE DI GIALLO “b” su t.q.: 26,97 MINOLTA CR 300</li>
 	
 									<li>GRANULOMETRIA (% ):</li>
@@ -61,22 +60,17 @@
 											<li>rifiuto setaccio 425 micron 11,96%</li>
 	
 												<li>rifiuto setaccio 250 micron 66,82%</li>
-
 													<li>rifiuto setaccio 180 micron 5,71%</li>
-
 														<li>fondo 0,05%
 	</ul>
-
-
 	</div>
-
 	<div>
 		<table class="certificati">
 			<tbody>
 			<tr>
-			<td valign=”top” width=”186″><img src="images/certificato1.png" class="rounded float-left" alt=" "></td>
-			<td valign=”top” width=”186″><img src="images/certificato2.png" class="rounded float-left" alt=" "></td>
-			<td valign=”top” width=”186"><img src="images/certificato3.png" class="rounded float-left" alt=" "></td>
+			<td valign=”top” width=”186″ href= "https://algoexplorer.io/tx/DQIEJ3ZNNT2LRAFHTDESEONZFJP7FA35PRS6LLUQ7Y24RGT4DVEA"><img src="images/certificato1.png" class="rounded float-left" alt=" "></td>
+			<td valign=”top” width=”186″ href="https://algoexplorer.io/tx/ZTFUZVEQW7QEOZCBKUKEKLMEMCQTUZVYYUQ4NIVPV3FUMY5557GQ"><img src="images/certificato2.png" class="rounded float-left" alt=" "></td>
+			<td valign=”top” width=”186″ href="https://algoexplorer.io/tx/DHNKUC2UTC7CUO5DBR3L4PQ4W23KZ627XIAEVQW62RUYZAY7CSZA"><img src="images/certificato3.png" class="rounded float-left" alt=" "></td>
 			</tr></tbody></table>
 			
 			
@@ -93,26 +87,20 @@
 		max-width: 240px;
 		margin: 0 auto;
 	}
-
-
-
 	.div2 {
 		float: right;
 		text-align: justify;
 		width: 40%;
 	}
-
 	#img1 {
 		width: 50%;
   		height:50%;
 		float: left;
 	}
-
 	.certificati {
 		position:relative;
 		bottom:0;
 		padding: 0;
-
 	}
 	
 	@media (min-width: 640px) {
