@@ -110,6 +110,7 @@ height : 20px;
 text-align : right;
 position:absolute;
 bottom:0;
+float: left;
 	}
 	
 	@media (min-width: 640px) {
