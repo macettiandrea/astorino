@@ -89,7 +89,7 @@
 
 	.colonna_sx {
 		float:left;
-		width: 50%;
+		width: 40%;
 		margin: 25px;
 		padding: 25px;
 	}
