@@ -64,7 +64,7 @@
 														<li>fondo 0,05%
 	</ul>
 	</div>
-	<div>
+	<div class="certificazioni">
 		<table class="certificati">
 			<tbody>
 			<tr>
@@ -94,14 +94,22 @@
 		width: 40%;
 	}
 	#img1 {
-		width: 50%;
-  		height:50%;
+		width: 40%;
+  		height:40%;
 		float: left;
 	}
 	.certificati {
 		position:relative;
 		bottom:0;
 		padding: 0;
+	}
+
+	.certificazioni {
+width : 100%;
+height : 20px;
+text-align : right;
+position:absolute;
+bottom:0;
 	}
 	
 	@media (min-width: 640px) {
