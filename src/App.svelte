@@ -74,9 +74,9 @@
 		<table class="certificati">
 			<tbody>
 			<tr>
-			<td valign=”top” width=”186″ ><img src="images/certificato1.png" class="rounded float-left" alt=" "></td>
-			<td valign=”top” width=”186″><img src="images/certificato2.png" class="rounded float-left" alt=" "></td>
-			<td valign=”top” width=”186″><img src="images/certificato3.png" class="rounded float-left" alt=" "></td>
+			<td valign=”top” width=”186″ href= "https://algoexplorer.io/tx/DQIEJ3ZNNT2LRAFHTDESEONZFJP7FA35PRS6LLUQ7Y24RGT4DVEA"><img src="images/certificato1.png" class="rounded float-left" alt=" "></td>
+			<td valign=”top” width=”186″href="https://algoexplorer.io/tx/ZTFUZVEQW7QEOZCBKUKEKLMEMCQTUZVYYUQ4NIVPV3FUMY5557GQ"><img src="images/certificato2.png" class="rounded float-left" alt=" "></td>
+			<td valign=”top” width=”186″href="https://algoexplorer.io/tx/DHNKUC2UTC7CUO5DBR3L4PQ4W23KZ627XIAEVQW62RUYZAY7CSZA"><img src="images/certificato3.png" class="rounded float-left" alt=" "></td>
 			</tr></tbody></table>
 			
 			
