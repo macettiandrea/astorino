@@ -3,6 +3,9 @@
 </script>
 
 <main>
+	<head>
+		<meta name="viewport" content="width=device-width, user-scalable=no">
+	</head>
 	<div clas="colonna_sx">
 		<img id="img1" src="images/pasta2.jpeg" class="rounded float-left" alt="Immagine Pasta">
 	</div>
@@ -71,7 +74,8 @@
 	<div class="certificazioni">
 			<a href="https://algoexplorer.io/tx/DHNKUC2UTC7CUO5DBR3L4PQ4W23KZ627XIAEVQW62RUYZAY7CSZA" valign=”top” width=”186″ ><img src="images/transazione.png" class="rounded float-left" alt=" "></a>
 			<a href="https://app.dedit.io/verification/2ca0c03080b4f47e50b8e18ca9b9f6c3692219acdcf97467d2a35cb2628d6398" valign=”top” width=”186″ ><img src="images/notarizzazione.png" class="rounded float-left" alt=" "></a>
-			
+			<a href="https://app.dedit.io/verification/4e5ec161ccc6ea2c9fb1793af39c0df392bc1f651e94d81df9f6afff68c9f195" valign=”top” width=”186″ ><img src="images/certificatoCQY.png" class="rounded float-left" alt=" "></a>
+
 		
 		
 	<div style="clear: both;">
@@ -80,40 +84,30 @@
 
 <style>
 	main {
-		text-align: center;
-		padding: 1em;
-		max-width: 240px;
-		margin: 0 auto;
-		margin-top:100px;
+		padding: 5%;
 	}
-
 	.colonna_sx {
 		float:left;
 		width: 40%;
-		margin: 25px;
-		padding: 25px;
+		margin: 10%;
+		padding: 10%;
 	}
-
 	.colonna_dx {
 		text-align: left;
 		float: left;
-		width: 20%;
-		margin-left: 100px;
+		width: 25%;
+		margin-left: 10%;
 	}
-
 	.colonna_dx2 {
 		text-align: left;
 		float: left;
-		width: 20%;
-		margin: 25px;
+		width: 25%;
+		margin: 2%;
 	}
-
-
 	#img1 {
-		width: 20%;
+		width: 30%;
   		height:auto;
 		float: left;
-		margin-left: 200px;
 	}
 	.certificazioni {
 		float:left;
@@ -122,9 +116,58 @@
 		padding: 0;
 	}
 	
-	@media (min-width: 640px) {
+	@media (max-width: 1092px) {
 		main {
-			max-width: none;
+			max-width: none;	
+			margin: 0 auto;
+		}
+		.colonna_sx {
+			float:left;
+			width: 100%;	
+			margin: 0 none;
+			padding: 0 none;
+		}
+		#img1 {
+			width: 50%;
+			margin-left: 20%;
+			margin-bottom: 10%;
+		}
+		.colonna_dx {
+			float:left;
+			width: 100%;	
+			margin: 0 none;
+			padding: 0 none;
+		}
+
+		.colonna_dx2 {
+			float:left;
+			width: 100%;	
+			margin: 0 none;
+			padding: 0 none;
 		}
 	}
+
 </style>
+
+<!-- 
+
+@media (ma-width: 640px) {
+		main {
+			max-width: none;
+			margin: 0 auto;
+		}
+		.colonna_sx {
+			float: left;
+			width: 100%;
+			margin: 0 auto;
+			padding: none;
+		}
+		.colonna_dx {
+			float: left;
+			width: 100%;
+			margin: 0 auto;
+			padding: none;
+		}
+	}
+
+-->
